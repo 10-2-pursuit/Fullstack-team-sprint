@@ -75,5 +75,29 @@ Your application should follow the provided [wireframes](/assets/wireframes)
 - Bookings are added to the Index Page for Bookings and linked to the event space.
 
 **Note:** Each page should have consistent navigation for ease of use. Responsive design for various devices is recommended for an enhanced user experience.
+
 ## Fullstack Sprint Teams
+
+1. Keith 	Camacho
+   Davon	Bridgett
+   Jalal	Jonaid
+
+2. Michael 	Caldwell
+   Dwayne	Jones
+   Joseph 	Carter
+   Nicole 	Slater
+   
+4. Anthony 	Huarneck
+   Michael 	Kleemoff
+   Aisha 	Kleemoff
+   
+   Alexander	Tsiklidis
+5. Shanice	Griffin
+   Sung	Yi
+   Gen	Lara
+   Tonesha	Rose
+   
+6. Erick 	Tolentino
+  Joram 	Mercado
+  Elisaul	Bautista
 
