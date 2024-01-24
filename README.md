@@ -75,12 +75,5 @@ Your application should follow the provided [wireframes](/assets/wireframes)
 - Bookings are added to the Index Page for Bookings and linked to the event space.
 
 **Note:** Each page should have consistent navigation for ease of use. Responsive design for various devices is recommended for an enhanced user experience.
+## Fullstack Sprint Teams
 
-## Submission Guidelines
-
-- Aim to complete the challenge in about 7 hours.
-- Submit your solution by **[specified deadline]**.
-- Include a README.md with instructions on how to run your project.
-- Submit your code compressed in a zip file using the provided submission form.
-  - Remember to exclude the `node_modules/` folder before compressing.
-- For questions, reach out to [designated contact person or platform].
