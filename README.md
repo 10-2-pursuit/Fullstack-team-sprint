@@ -43,7 +43,8 @@ Create a RESTful API service with the following endpoints that read and write to
 
 ### Wireframes
 
-Your application should follow the provided [wireframes](/assets/wireframes)
+Your application should follow the provided wireframse listed in FullsTackSprintWireframes.pdf
+
 
 ### App Pages/Views
 # Community Event Space Booking App Pages and Views
