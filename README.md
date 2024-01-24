@@ -42,8 +42,39 @@ Create a RESTful API service with the following endpoints that read and write to
 Your application should follow the provided [wireframes](/assets/wireframes)
 
 ### App Pages/Views
+# Community Event Space Booking App Pages and Views
 
-Adapt the pages/views for the Event Space Booking context, similar to the original assignment but with relevant changes to terminology and functionality.
+## 1. Index Page for Event Spaces
+- Lists all available event spaces.
+- Includes details like space name, capacity, location, and a thumbnail image.
+- Clickable event spaces navigate to their specific show page.
+
+## 2. Index Page for Bookings
+- Displays a list of all existing bookings.
+- Shows details such as event name, booked space, date, time, and attendees.
+- Each booking links to a detailed show page.
+
+## 3. Form Page for Creating a New Event Space
+- A form to add a new event space, typically for administrators or managers.
+- Fields include space name, capacity, location, and image upload options.
+- New spaces are added to the Index Page for Event Spaces upon submission.
+
+## 4. Show Page for Each Event Space
+- Provides detailed information about a specific event space.
+- Details include name, capacity, location, images, and a description.
+- May show availability and include a booking form.
+
+## 5. Show Page for Each Individual Booking
+- Detailed view of a specific booking.
+- Displays information like the event name, date and time, space used, and attendees.
+- Option for modifying or confirming bookings can be considered.
+
+## 6. Booking Form (on Event Space Show Page)
+- A form to book an event space.
+- Fields for event name, date and time, number of attendees, and special requirements.
+- Bookings are added to the Index Page for Bookings and linked to the event space.
+
+**Note:** Each page should have consistent navigation for ease of use. Responsive design for various devices is recommended for an enhanced user experience.
 
 ## Submission Guidelines
 
