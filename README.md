@@ -1,28 +1,10 @@
 # Fullstack-team-sprint
-# Frontend Takehome Coding Challenge
 
 Create a Community Event Space Booking App client that interacts with a RESTful API using React.
-
-## Prerequisites
-
-- Knowledge of Javascript/Typescript and React
-
-## Getting Started
-
-1. **Create a Database.**
-   - Any type of database is acceptable.
-2. **Create a Backend API Service App.**
-   - Use any programming language.
-   - Complete your API service application according to the technical requirements below.
-3. **Create a New React App.**
-   - You can use `create-react-app`.
-   - Complete your client application according to the technical requirements below.
 
 ## Technical Requirements
 
 Create an Event Space Booking application where users can:
-
-#### Space Management:
 
 - View all event spaces
 - Create an event space
@@ -57,7 +39,7 @@ Create a RESTful API service with the following endpoints that read and write to
 
 ### Wireframes
 
-Your application should follow the provided wireframes, with necessary adjustments to accommodate the event space context.
+Your application should follow the provided [wireframes](/assets/wireframes)
 
 ### App Pages/Views
 
