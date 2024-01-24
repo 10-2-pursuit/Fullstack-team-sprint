@@ -82,26 +82,26 @@ Your application should follow the provided [wireframes](/assets/wireframes)
 
 ## Fullstack Sprint Teams
 
-1. Keith 	Camacho
-   Davon	Bridgett
+1. Keith Camacho,
+   Davon	Bridgett,
    Jalal	Jonaid
 
-2. Michael 	Caldwell
-   Dwayne	Jones
-   Joseph 	Carter
+2. Michael 	Caldwell,
+   Dwayne	Jones,
+   Joseph 	Carter,
    Nicole 	Slater
    
-4. Anthony 	Huarneck
-   Michael 	Kleemoff
-   Aisha 	Kleemoff
-   
+4. Anthony 	Huarneck,
+   Michael 	Kleemoff,
+   Aisha 	Kleemoff,
    Alexander	Tsiklidis
-5. Shanice	Griffin
-   Sung	Yi
-   Gen	Lara
+   
+6. Shanice	Griffin,
+   Sung	Yi,
+   Gen	Lara,
    Tonesha	Rose
    
-6. Erick 	Tolentino
-  Joram 	Mercado
+7. Erick 	Tolentino,
+  Joram 	Mercado,
   Elisaul	Bautista
 
